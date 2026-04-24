@@ -4,7 +4,7 @@
 
 ---
 
-## 🧠 About Me
+## 🧠 A little about Me
 
 I’m an IT support technician focused on building hands-on experience in system administration, Active Directory, and network troubleshooting.
 
@@ -17,6 +17,7 @@ Through lab environments and real-world scenarios, I’m continuously improving 
 ## 🛠️ Projects
 
 ### 🔹 [Active Directory Troubleshooting Lab](https://github.com/Jaycyber3000/active-directory-troubleshooting-lab)
+[Other Projects](https://jamesonkglover.wixsite.com/jameson)
 
 
 
@@ -34,9 +35,10 @@ Through lab environments and real-world scenarios, I’m continuously improving 
 
 - Active Directory (Users & Groups)
 - Network Troubleshooting (DHCP, IP issues)
-- Windows Server & Windows 10/11
+- Windows 10/11
 - Command Line (ipconfig, ping)
 - File & Folder Permissions (NTFS)
+- PC Deployment
 
 ---
 
